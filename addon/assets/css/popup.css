@@ -1,0 +1,23 @@
+body{
+    background-color: #313131;
+    color: antiquewhite;
+}
+
+.link-primary{
+    text-decoration: none;
+    color: antiquewhite;
+    border-bottom: 1px solid antiquewhite;
+}
+
+.link-primary:hover{
+    color: antiquewhite;
+}
+
+#shortcr{
+    background-color: #424141;
+    color: antiquewhite;
+}
+
+#shortcr:hover{
+    background-color: #6b6969;
+}
